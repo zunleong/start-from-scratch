@@ -61,4 +61,3 @@ This started as a personal skill, so there's no formal contribution process yet 
 ## License
 
 MIT — see [LICENSE](./LICENSE).
-=======
