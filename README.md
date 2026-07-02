@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Start From Scratch
 
 A Claude Skill that turns "start a new website project" into a guided, best-practice-driven setup instead of a blank terminal.
@@ -61,3 +62,6 @@ This started as a personal skill, so there's no formal contribution process yet 
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+=======
+# start-from-scratch
+>>>>>>> 9ec8823257250454f0cd96450347a88b82b21c9a
