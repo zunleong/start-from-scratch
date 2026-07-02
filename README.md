@@ -62,5 +62,3 @@ This started as a personal skill, so there's no formal contribution process yet 
 
 MIT — see [LICENSE](./LICENSE).
 =======
-# start-from-scratch
->>>>>>> 9ec8823257250454f0cd96450347a88b82b21c9a
