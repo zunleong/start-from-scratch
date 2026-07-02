@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Start From Scratch
 
 A Claude Skill that turns "start a new website project" into a guided, best-practice-driven setup instead of a blank terminal.
